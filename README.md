@@ -20,7 +20,7 @@ Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 ```
 Клонирование репозитория 
 ```
-git clone https://github.com/Zajimbot/NvcadFork.git $env:LOCALAPPDATA\nvim
+git clone https://github.com/Zajimbot/myNvcad.git $env:LOCALAPPDATA\nvim
 ```
 Удалить `.git` папка, вы можете добавить ее в свой собственный репозиторий позже
 ```
@@ -47,7 +47,7 @@ mv ~/.cache/nvim{,.bak}
 ```
 Клонирование репозитория 
 ```
-git clone https://github.com/Zajimbot/NvcadFork.git ~/.config/nvim
+git clone https://github.com/Zajimbot/myNvcad.git ~/.config/nvim
 ```
 Удалить `.git` папка, вы можете добавить ее в свой собственный репозиторий позже
 ```
